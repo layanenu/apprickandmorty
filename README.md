@@ -10,7 +10,7 @@ Esse aplicativo foi criado para colocar em prática os conhecimentos em ***front
 https://user-images.githubusercontent.com/99842422/157903075-e8e3d796-d519-482a-aa11-873ef6996ed4.mp4
 
 ## ► Tecnologias utilizadas: ##
-React-native  |  Style Components  |  Rick and Morty API  |  Google fonts
+React-native  |  Style Components  |  Rick and Morty API
 
 ## ► Sobre o app: ##
  ♦ **Dependências:**
