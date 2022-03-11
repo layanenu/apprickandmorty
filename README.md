@@ -13,19 +13,19 @@ https://user-images.githubusercontent.com/99842422/157903075-e8e3d796-d519-482a-
 React-native  |  CSS  |  Rick and Morty API  |  Google fonts
 
 ## ► Sobre o app: ##
-**1. Dependências:**
+ ♦ **Dependências:**
 [NodeJS](https://nodejs.org/en/) | 
 [Git](https://git-scm.com/)
 
-**2. Na pasta raiz do repositório digite o seguinte comando para instalar as dependências:**
+♦ **Na pasta raiz do repositório digite o seguinte comando para instalar as dependências:**
 ```
 npm install
 ```
-**3. Para subir a aplicaçao digite o próximo comando:**
+♦ **Para subir a aplicaçao digite o próximo comando:**
 ```
 npm start
 ```
-**4. Testando aplicação em IOS e Android:**
+♦ **Testando aplicação em IOS e Android:**
 <br><br>
 Para testar a aplicação, você pode usar seu dispositivo físico ou executar diretamente no seu computador.
 <br><br>
