@@ -12,6 +12,9 @@ https://user-images.githubusercontent.com/99842422/157903075-e8e3d796-d519-482a-
 ## ► Tecnologias utilizadas: ##
 React-native  |  CSS  |  Rick and Morty API  |  Google fonts
 
+## ► Sobre o app: ##
+1. Dependências: node js
+2. 
 ## ► Autor:  
  <div>  
   <a href = "layanenu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
