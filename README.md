@@ -2,7 +2,7 @@
 
 ## ► Sobre o app: 
 
-Esse aplicativo foi criado para colocar em prática os conhecimentos em ***front-end mobile usando React-Native, Style Components.*** 
+Esse aplicativo foi criado para colocar em prática os conhecimentos em ***front-end mobile usando React-Native e Style Components.*** 
 
 ***O app tem como objetivo conhecer os personagens da animação Rick and Morty.*** Por meio do campo “busque por um personagem” o usuário consegue pesquisar pelo nome do personagem e obter informações ao seu respeito, tais como: tipo de espécie, gênero, localização, qual sua origem e o status no qual ele se encontra. Além disso, o usuário consegue favoritar o seu personagem preferido através da opção “Like ♡ ”.
 
