@@ -1,0 +1,12 @@
+{
+    "colors": {
+        "primary": "#1E2047",
+        "secundary": "#C4C4C4",
+        "white": "#F0F0F5",
+        "dark": "#000", 
+        "alive": "#4AC82A",
+        "dead": "#E91337",
+        "unknown":"#FF9000",
+        "blue":"#1b1c3bff"        
+    }
+}
